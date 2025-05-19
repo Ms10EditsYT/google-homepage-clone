@@ -32,7 +32,7 @@ This project is a simplified recreation of Google's homepage using HTML, CSS, an
 ## Live Demo
 
 Available at:  
-[https://yourusername.github.io/google-homepage-clone/](https://yourusername.github.io/google-homepage-clone/)
+[https://Ms10EditsYT.github.io/google-homepage-clone/](https://Ms10EditsYT.github.io/google-homepage-clone/)
 
 ---
 
@@ -45,4 +45,3 @@ This project is provided for educational use only. It does not claim any associa
 ## Contact
 
 For questions or feedback, please open an issue on this repository.
-
